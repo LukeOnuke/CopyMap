@@ -1,0 +1,11 @@
+E:\Repos\CopyMap\CopyMap\bin\Release\netcoreapp3.0\CopyMap.exe
+E:\Repos\CopyMap\CopyMap\bin\Release\netcoreapp3.0\CopyMap.deps.json
+E:\Repos\CopyMap\CopyMap\bin\Release\netcoreapp3.0\CopyMap.runtimeconfig.json
+E:\Repos\CopyMap\CopyMap\bin\Release\netcoreapp3.0\CopyMap.runtimeconfig.dev.json
+E:\Repos\CopyMap\CopyMap\bin\Release\netcoreapp3.0\CopyMap.dll
+E:\Repos\CopyMap\CopyMap\bin\Release\netcoreapp3.0\CopyMap.pdb
+E:\Repos\CopyMap\CopyMap\obj\Release\netcoreapp3.0\CopyMap.AssemblyInfoInputs.cache
+E:\Repos\CopyMap\CopyMap\obj\Release\netcoreapp3.0\CopyMap.AssemblyInfo.cs
+E:\Repos\CopyMap\CopyMap\obj\Release\netcoreapp3.0\CopyMap.dll
+E:\Repos\CopyMap\CopyMap\obj\Release\netcoreapp3.0\CopyMap.pdb
+E:\Repos\CopyMap\CopyMap\obj\Release\netcoreapp3.0\CopyMap.csprojAssemblyReference.cache
