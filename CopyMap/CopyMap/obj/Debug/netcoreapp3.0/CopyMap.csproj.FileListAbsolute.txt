@@ -1,0 +1,14 @@
+E:\Repos\CopyMap\CopyMap\bin\Debug\netcoreapp3.0\CopyMap.exe
+E:\Repos\CopyMap\CopyMap\bin\Debug\netcoreapp3.0\CopyMap.deps.json
+E:\Repos\CopyMap\CopyMap\bin\Debug\netcoreapp3.0\CopyMap.runtimeconfig.json
+E:\Repos\CopyMap\CopyMap\bin\Debug\netcoreapp3.0\CopyMap.runtimeconfig.dev.json
+E:\Repos\CopyMap\CopyMap\bin\Debug\netcoreapp3.0\CopyMap.dll
+E:\Repos\CopyMap\CopyMap\bin\Debug\netcoreapp3.0\CopyMap.pdb
+E:\Repos\CopyMap\CopyMap\obj\Debug\netcoreapp3.0\CopyMap.csprojAssemblyReference.cache
+E:\Repos\CopyMap\CopyMap\obj\Debug\netcoreapp3.0\CopyMap.AssemblyInfoInputs.cache
+E:\Repos\CopyMap\CopyMap\obj\Debug\netcoreapp3.0\CopyMap.AssemblyInfo.cs
+E:\Repos\CopyMap\CopyMap\obj\Debug\netcoreapp3.0\CopyMap.dll
+E:\Repos\CopyMap\CopyMap\obj\Debug\netcoreapp3.0\CopyMap.pdb
+E:\Repos\CopyMap\CopyMap\bin\Debug\netcoreapp3.0\DotNetZip.dll
+E:\Repos\CopyMap\CopyMap\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+E:\Repos\CopyMap\CopyMap\obj\Debug\netcoreapp3.0\CopyMap.csproj.CopyComplete
