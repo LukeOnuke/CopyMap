@@ -1,5 +1,0 @@
-Begining
-E:\SteamGames\steamapps\common\Counter-Strike Global Offensive\csgo\maps
-E:\SteamGames\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps
-D:\Map Backups\de_paralia
-de_paralia_v4
