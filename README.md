@@ -21,6 +21,7 @@ D:\Map Backups\de_paralia
 de_paralia_v4
 
 ![Looks like this](https://i.imgur.com/NO6aAT9.png)
+
 **Dont forget to leave the Begining at the first line and the 6th line empty**
 After this you can run the program and it will backup your map files in the desierd destination
 ## Uses
